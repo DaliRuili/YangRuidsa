@@ -1,0 +1,3 @@
+{"List":[
+{"Id":1001,"ProcessConfigId":1,"WorldConfigId":1,"SceneRuntimeType":"MultiThread","SceneTypeString":"Authentication","NetworkProtocol":"KCP","OuterPort":20001,"InnerPort":11001,"SceneType":1}
+]}

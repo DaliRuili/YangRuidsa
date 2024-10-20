@@ -1,0 +1,6 @@
+2024-10-20 21:08:43.4994 SceneConfigId = 1001 networkTarget = Inner TCPServer Listen 127.0.0.1:11001
+2024-10-20 21:08:43.6880 SceneConfigId = 1001 networkTarget = Outer KCPServer Listen 127.0.0.1:20001
+2024-10-20 21:08:43.6880 Process:1 Startup Complete SceneCount:1
+2024-10-20 21:13:38.2064 SceneConfigId = 1001 networkTarget = Inner TCPServer Listen 127.0.0.1:11001
+2024-10-20 21:13:38.3651 SceneConfigId = 1001 networkTarget = Outer KCPServer Listen 127.0.0.1:20001
+2024-10-20 21:13:38.3651 Process:1 Startup Complete SceneCount:1

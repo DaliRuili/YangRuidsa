@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Entity\Entity.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Benchmark\" />
+      <Folder Include="Inner\Addressable\" />
+      <Folder Include="Inner\RouteMessage\" />
+      <Folder Include="Outer\Addresable\" />
+      <Folder Include="Outer\NormalMessage\" />
+      <Folder Include="Outer\RouteMessage\" />
+    </ItemGroup>
+
+</Project>

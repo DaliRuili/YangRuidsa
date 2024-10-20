@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zDrv3AhL+hlOUw9a6+pleD1a4a9NX0P+qaeepmM2ucg2XgKpOaG9ab0SkyBVeDHq+p9KKaaEAvk9vR4X551wWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yangrui\\Data\\ServerClient\\examples\\Server\\Tools\\Tools.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yangrui\\.nuget\\packages\\fantasy-net.exporter\\2024.1.3\\fantasy-net.exporter.2024.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}
