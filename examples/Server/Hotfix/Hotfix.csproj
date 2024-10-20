@@ -12,8 +12,7 @@
 
     <ItemGroup>
       <Folder Include="Benchmark\" />
-      <Folder Include="Inner\Addressable\" />
-      <Folder Include="Inner\RouteMessage\" />
+      <Folder Include="Inner\" />
       <Folder Include="Outer\Addresable\" />
       <Folder Include="Outer\NormalMessage\" />
       <Folder Include="Outer\RouteMessage\" />

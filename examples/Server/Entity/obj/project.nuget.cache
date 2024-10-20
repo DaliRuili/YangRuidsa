@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+5HRX+AUMbdPlNlYPQdaM51rMWJP6ul47qrUlwKJeBrAZd78vtQhWbcVMB6dXaSQeBxTnsFUYEQ6nokl37T7XA==",
+  "dgSpecHash": "rHbhPSv3WsXXx43MAO5aF3EO7MTtD9J9EhaDy7P1Y7/yxLN3FFHWODIxxBxfXPGXZiFkActH9MKNsYvsT1Gqqg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yangrui\\Data\\ServerClient\\examples\\Server\\Entity\\Entity.csproj",
+  "projectFilePath": "C:\\Users\\yangrui\\Data\\UGit\\YangRuidsa\\examples\\Server\\Entity\\Entity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yangrui\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\yangrui\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
