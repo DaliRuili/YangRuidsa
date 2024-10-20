@@ -1,6 +1,6 @@
 ﻿using Fantasy.Entitas;
 
-namespace Fantasy.Model.Authentication;
+namespace Fantasy.Authentication;
 
 public sealed class AuthenticationComponent : Entity
 {

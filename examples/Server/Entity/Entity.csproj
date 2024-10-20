@@ -16,11 +16,6 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Folder Include="Model\Addressable\" />
-      <Folder Include="Model\RouteMessage\" />
-    </ItemGroup>
-
-    <ItemGroup>
       <PackageReference Include="Fantasy-Net" Version="2024.1.7" />
       <PackageReference Include="MemoryPack" Version="1.21.3" />
     </ItemGroup>
