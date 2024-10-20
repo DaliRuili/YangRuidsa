@@ -41,9 +41,9 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-    <Analyzer Include="C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Assets\MemoryPack\Plugins\Microsoft.CodeAnalysis.Analyzers.3.3.4\Microsoft.CodeAnalysis.CSharp.Analyzers.dll" />
-    <Analyzer Include="C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Assets\MemoryPack\Plugins\Microsoft.CodeAnalysis.Analyzers.3.3.4\Microsoft.CodeAnalysis.Analyzers.dll" />
-    <Analyzer Include="C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Assets\MemoryPack\Plugins\MemoryPack.Generator.1.21.1\analyzers\dotnet\cs\MemoryPack.Generator.dll" />
+    <Analyzer Include="C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Assets\MemoryPack\Plugins\Microsoft.CodeAnalysis.Analyzers.3.3.4\Microsoft.CodeAnalysis.CSharp.Analyzers.dll" />
+    <Analyzer Include="C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Assets\MemoryPack\Plugins\Microsoft.CodeAnalysis.Analyzers.3.3.4\Microsoft.CodeAnalysis.Analyzers.dll" />
+    <Analyzer Include="C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Assets\MemoryPack\Plugins\MemoryPack.Generator.1.21.1\analyzers\dotnet\cs\MemoryPack.Generator.dll" />
     <Analyzer Include="C:\Users\yangrui\App\Unity\Editor\2022.3.12f1c1\Editor\Data\Tools\Unity.SourceGenerators\Unity.SourceGenerators.dll" />
     <Analyzer Include="C:\Users\yangrui\App\Unity\Editor\2022.3.12f1c1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
@@ -312,64 +312,64 @@
      <HintPath>C:\Users\yangrui\App\Unity\Editor\2022.3.12f1c1\Editor\Data\PlaybackEngines\WindowsStandaloneSupport\UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.YamlDotNet">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Library\PackageCache\com.unity.visualscripting@1.9.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Library\PackageCache\com.unity.visualscripting@1.9.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Collections.LowLevel.ILSupport">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Library\PackageCache\com.unity.collections@1.2.4\Unity.Collections.LowLevel.ILSupport\Unity.Collections.LowLevel.ILSupport.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Library\PackageCache\com.unity.collections@1.2.4\Unity.Collections.LowLevel.ILSupport\Unity.Collections.LowLevel.ILSupport.dll</HintPath>
      </Reference>
      <Reference Include="System.Text.Encoding.CodePages">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Assets\MemoryPack\Plugins\System.Text.Encoding.CodePages.7.0.0\lib\netstandard2.0\System.Text.Encoding.CodePages.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Assets\MemoryPack\Plugins\System.Text.Encoding.CodePages.7.0.0\lib\netstandard2.0\System.Text.Encoding.CodePages.dll</HintPath>
      </Reference>
      <Reference Include="Microsoft.CodeAnalysis">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Assets\MemoryPack\Plugins\Microsoft.CodeAnalysis.Common.4.11.0\netstandard2.0\Microsoft.CodeAnalysis.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Assets\MemoryPack\Plugins\Microsoft.CodeAnalysis.Common.4.11.0\netstandard2.0\Microsoft.CodeAnalysis.dll</HintPath>
      </Reference>
      <Reference Include="unityplastic">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Library\PackageCache\com.unity.collab-proxy@2.5.2\Lib\Editor\PlasticSCM\unityplastic.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Library\PackageCache\com.unity.collab-proxy@2.5.2\Lib\Editor\PlasticSCM\unityplastic.dll</HintPath>
      </Reference>
      <Reference Include="System.Reflection.Metadata">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Assets\MemoryPack\Plugins\System.Reflection.Metadata.8.0.0\lib\netstandard2.0\System.Reflection.Metadata.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Assets\MemoryPack\Plugins\System.Reflection.Metadata.8.0.0\lib\netstandard2.0\System.Reflection.Metadata.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Plastic.Antlr3.Runtime">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Library\PackageCache\com.unity.collab-proxy@2.5.2\Lib\Editor\PlasticSCM\Unity.Plastic.Antlr3.Runtime.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Library\PackageCache\com.unity.collab-proxy@2.5.2\Lib\Editor\PlasticSCM\Unity.Plastic.Antlr3.Runtime.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Plastic.Newtonsoft.Json">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Library\PackageCache\com.unity.collab-proxy@2.5.2\Lib\Editor\PlasticSCM\Unity.Plastic.Newtonsoft.Json.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Library\PackageCache\com.unity.collab-proxy@2.5.2\Lib\Editor\PlasticSCM\Unity.Plastic.Newtonsoft.Json.dll</HintPath>
      </Reference>
      <Reference Include="Microsoft.CodeAnalysis.CSharp">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Assets\MemoryPack\Plugins\Microsoft.CodeAnalysis.CSharp.4.11.0\netstandard2.0\Microsoft.CodeAnalysis.CSharp.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Assets\MemoryPack\Plugins\Microsoft.CodeAnalysis.CSharp.4.11.0\netstandard2.0\Microsoft.CodeAnalysis.CSharp.dll</HintPath>
      </Reference>
      <Reference Include="log4netPlastic">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Library\PackageCache\com.unity.collab-proxy@2.5.2\Lib\Editor\PlasticSCM\log4netPlastic.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Library\PackageCache\com.unity.collab-proxy@2.5.2\Lib\Editor\PlasticSCM\log4netPlastic.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.IonicZip">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Library\PackageCache\com.unity.visualscripting@1.9.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Library\PackageCache\com.unity.visualscripting@1.9.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Library\PackageCache\com.unity.visualscripting@1.9.1\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Library\PackageCache\com.unity.visualscripting@1.9.1\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
      </Reference>
      <Reference Include="MemoryPack.Core">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Assets\MemoryPack\Plugins\MemoryPack.Core.1.21.1\lib\netstandard2.1\MemoryPack.Core.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Assets\MemoryPack\Plugins\MemoryPack.Core.1.21.1\lib\netstandard2.1\MemoryPack.Core.dll</HintPath>
      </Reference>
      <Reference Include="MemoryPack.Generator">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Assets\MemoryPack\Plugins\MemoryPack.Generator.1.21.1\analyzers\dotnet\cs\MemoryPack.Generator.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Assets\MemoryPack\Plugins\MemoryPack.Generator.1.21.1\analyzers\dotnet\cs\MemoryPack.Generator.dll</HintPath>
      </Reference>
      <Reference Include="Newtonsoft.Json">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Library\PackageCache\com.unity.nuget.newtonsoft-json@3.2.1\Runtime\Newtonsoft.Json.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Library\PackageCache\com.unity.nuget.newtonsoft-json@3.2.1\Runtime\Newtonsoft.Json.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.TextureAssets">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Library\PackageCache\com.unity.visualscripting@1.9.1\Editor\VisualScripting.Core\EditorAssetResources\Unity.VisualScripting.TextureAssets.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Library\PackageCache\com.unity.visualscripting@1.9.1\Editor\VisualScripting.Core\EditorAssetResources\Unity.VisualScripting.TextureAssets.dll</HintPath>
      </Reference>
      <Reference Include="System.Runtime.CompilerServices.Unsafe">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Library\PackageCache\com.fantasy.unity@c7552db968\Runtime\Plugins\Other\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Library\PackageCache\com.fantasy.unity@c7552db968\Runtime\Plugins\Other\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
      </Reference>
      <Reference Include="System.IO.Pipelines">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Library\PackageCache\com.fantasy.unity@c7552db968\Runtime\Plugins\Other\System.IO.Pipelines.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Library\PackageCache\com.fantasy.unity@c7552db968\Runtime\Plugins\Other\System.IO.Pipelines.dll</HintPath>
      </Reference>
      <Reference Include="System.Collections.Immutable">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Library\PackageCache\com.fantasy.unity@c7552db968\Runtime\Plugins\Other\System.Collections.Immutable.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Library\PackageCache\com.fantasy.unity@c7552db968\Runtime\Plugins\Other\System.Collections.Immutable.dll</HintPath>
      </Reference>
      <Reference Include="nunit.framework">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll</HintPath>
      </Reference>
      <Reference Include="mscorlib">
      <HintPath>C:\Users\yangrui\App\Unity\Editor\2022.3.12f1c1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\mscorlib.dll</HintPath>
@@ -747,148 +747,148 @@
      <HintPath>C:\Users\yangrui\App\Unity\Editor\2022.3.12f1c1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Xml.XPath.XDocument.dll</HintPath>
      </Reference>
      <Reference Include="UnityEditor.TestRunner">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Library\ScriptAssemblies\UnityEditor.TestRunner.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Library\ScriptAssemblies\UnityEditor.TestRunner.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.TestRunner">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Library\ScriptAssemblies\UnityEngine.TestRunner.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Library\ScriptAssemblies\UnityEngine.TestRunner.dll</HintPath>
      </Reference>
      <Reference Include="Unity.2D.IK.Runtime">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll</HintPath>
      </Reference>
      <Reference Include="PsdPlugin">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Library\ScriptAssemblies\PsdPlugin.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Library\ScriptAssemblies\PsdPlugin.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Burst.Editor">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Library\ScriptAssemblies\Unity.Burst.Editor.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Library\ScriptAssemblies\Unity.Burst.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Burst">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Library\ScriptAssemblies\Unity.Burst.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Library\ScriptAssemblies\Unity.Burst.dll</HintPath>
      </Reference>
      <Reference Include="Unity.PlasticSCM.Editor">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.2D.Common.Path.Editor">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Library\ScriptAssemblies\Unity.2D.Common.Path.Editor.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Library\ScriptAssemblies\Unity.2D.Common.Path.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Fantasy.Editor">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Library\ScriptAssemblies\Fantasy.Editor.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Library\ScriptAssemblies\Fantasy.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Timeline.Editor">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Shared.Editor">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualStudio.Editor">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
      </Reference>
      <Reference Include="UnityEditor.UI">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Core">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Library\ScriptAssemblies\Unity.VisualScripting.Core.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Library\ScriptAssemblies\Unity.VisualScripting.Core.dll</HintPath>
      </Reference>
      <Reference Include="Unity.2D.Animation.Runtime">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll</HintPath>
      </Reference>
      <Reference Include="Unity.2D.Tilemap.Extras">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Library\ScriptAssemblies\Unity.2D.Tilemap.Extras.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Library\ScriptAssemblies\Unity.2D.Tilemap.Extras.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Core.Editor">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Rider.Editor">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Fantasy.Unity">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Library\ScriptAssemblies\Fantasy.Unity.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Library\ScriptAssemblies\Fantasy.Unity.dll</HintPath>
      </Reference>
      <Reference Include="Unity.2D.PixelPerfect.Editor">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.2D.Aseprite.Common">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Library\ScriptAssemblies\Unity.2D.Aseprite.Common.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Library\ScriptAssemblies\Unity.2D.Aseprite.Common.dll</HintPath>
      </Reference>
      <Reference Include="Unity.2D.Sprite.Editor">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.InternalAPIEditorBridge.005">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.005.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.005.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Flow">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Flow.Editor">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.InternalAPIEngineBridge.001">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Mathematics.Editor">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.2D.Common.Runtime">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.UI">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
      </Reference>
      <Reference Include="Unity.2D.Tilemap.Extras.Editor">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Library\ScriptAssemblies\Unity.2D.Tilemap.Extras.Editor.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Library\ScriptAssemblies\Unity.2D.Tilemap.Extras.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Timeline">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.SettingsProvider.Editor">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Library\ScriptAssemblies\Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Library\ScriptAssemblies\Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Collections">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Library\ScriptAssemblies\Unity.Collections.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Library\ScriptAssemblies\Unity.Collections.dll</HintPath>
      </Reference>
      <Reference Include="Unity.2D.Psdimporter.Editor">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.InternalAPIEditorBridge.001">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll</HintPath>
      </Reference>
      <Reference Include="Unity.2D.SpriteShape.Runtime">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.State.Editor">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.2D.PixelPerfect">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Mathematics">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Library\ScriptAssemblies\Unity.Mathematics.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Library\ScriptAssemblies\Unity.Mathematics.dll</HintPath>
      </Reference>
      <Reference Include="Unity.2D.Common.Editor">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.TextMeshPro">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
      </Reference>
      <Reference Include="Unity.TextMeshPro.Editor">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.2D.Aseprite.Editor">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Library\ScriptAssemblies\Unity.2D.Aseprite.Editor.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Library\ScriptAssemblies\Unity.2D.Aseprite.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.State">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Library\ScriptAssemblies\Unity.VisualScripting.State.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Library\ScriptAssemblies\Unity.VisualScripting.State.dll</HintPath>
      </Reference>
      <Reference Include="Unity.2D.SpriteShape.Editor">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.2D.Tilemap.Editor">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.2D.Animation.Editor">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.2D.IK.Editor">
-     <HintPath>C:\Users\yangrui\Data\ServerClient\examples\Client\Unity\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll</HintPath>
+     <HintPath>C:\Users\yangrui\Data\UGit\YangRuidsa\examples\Client\Unity\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll</HintPath>
      </Reference>
   </ItemGroup>
   <ItemGroup>
