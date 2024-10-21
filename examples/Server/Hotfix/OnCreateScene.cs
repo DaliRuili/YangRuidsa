@@ -2,19 +2,17 @@
 using Fantasy.Entitas;
 using Fantasy.Entitas.Interface;
 using Fantasy.Event;
-using Fantasy.Model.Authentication;
+using Fantasy.Authentication;
 using MongoDB.Driver;
 
 namespace Fantasy;
 
 public sealed class OnCreateSceneEvent : AsyncEventSystem<OnCreateScene>
 {
-    private static long _addressableSceneRunTimeId;
-
     /// <summary>
-    /// Handles the OnCreateScene event.
+    /// 创建Scene的事件，可以在这挂载组件
     /// </summary>
-    /// <param name="self">The OnCreateScene object.</param>
+    /// <param name="self">创建的Scene</param>
     /// <returns>A task representing the asynchronous operation.</returns>
     protected override async FTask Handler(OnCreateScene self)
     {
