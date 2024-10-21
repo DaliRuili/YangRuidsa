@@ -4,3 +4,6 @@ examples/Client/Unity/Logs
 examples/Client/Unity/obj
 examples/Client/Unity/UserSettings
 examples/Client/Unity/Temp
+examples/Server/Main/obj
+examples/Server/Entity/obj
+examples/Server/Hotfix/obj
