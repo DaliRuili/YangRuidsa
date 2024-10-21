@@ -1,11 +1,8 @@
-﻿using Fantasy.Async;
-using Fantasy.Entitas;
-using Fantasy.Entitas.Interface;
+﻿using Fantasy;
+using Fantasy.Async;
 using Fantasy.Event;
 using Fantasy.Authentication;
-using MongoDB.Driver;
-
-namespace Fantasy;
+namespace Hotfix;
 
 public sealed class OnCreateSceneEvent : AsyncEventSystem<OnCreateScene>
 {
